@@ -2,6 +2,14 @@
 
 Android app that finds words **inside your pictures** – screenshots of Facebook posts, chats, web pages.
 
+## Screenshots
+<p>
+  <img src="screenshot-1-search.jpg" width="200">
+  <img src="screenshot-2-highlight.jpg" width="200">
+  <img src="screenshot-3-highlight.jpg" width="200">
+  <img src="screenshot-4-folders.jpg" width="200">
+</p>
+
 ## Download
 👉 [Download the latest APK](https://github.com/KasparsKalkis/imagetext-findsearcher/releases/latest)
 
